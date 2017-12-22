@@ -1,2 +1,0 @@
-# agritrac
-GitHub Pages
